@@ -90,15 +90,17 @@ export default () => {
                         </div>
                         <div class="card-body">
                             <blockquote class="blockquote mb-0">
-                            <label htmlFor="" id="descuento">Descuento aplicado</label>
-                    <br />
-                    <label htmlFor="" id="porcentaje">Porcentaje de descuento :</label>
-                    <br />
-                    <label htmlFor="" id="total">Total a pagar: </label>                               
-                                 </blockquote>
+                                <label htmlFor="" id="descuento">Precio $25</label>
+                                <br />
+                                <label htmlFor="" id="descuento">Descuento aplicado</label>
+                                <br />
+                                <label htmlFor="" id="porcentaje">Porcentaje de descuento :</label>
+                                <br />
+                                <label htmlFor="" id="total">Total a pagar: </label>
+                            </blockquote>
                         </div>
                     </div>
-                    
+
                 </div>
             </form>
         </div>
